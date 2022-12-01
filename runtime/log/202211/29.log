@@ -1,0 +1,5 @@
+[2022-11-29T09:19:23+08:00][error] 小票打印出现错误,错误原因：获取access_token获取失败
+[2022-11-29T09:32:37+08:00][error] 小票打印出现错误,错误原因：获取access_token获取失败
+[2022-11-29T10:07:34+08:00][error] [8]未定义数组索引: grade[F:\phpStudy\phpstudy_pro\WWW\projectone.cn\app\models\system\SystemUserTask.php:308]
+[2022-11-29T10:08:57+08:00][error] [8]未定义数组索引: grade[F:\phpStudy\phpstudy_pro\WWW\projectone.cn\app\models\system\SystemUserTask.php:308]
+[2022-11-29T10:13:23+08:00][error] 小票打印出现错误,错误原因：获取access_token获取失败
