@@ -72,6 +72,7 @@ class AuthController
         return app('json')->success('成功');
     }
 
+    #获取发短信的key
     public function verifyCode()
     {
         $unique = password_hash(uniqid(true), PASSWORD_BCRYPT);
